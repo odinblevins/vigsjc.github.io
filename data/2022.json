@@ -1,4 +1,5 @@
-[
+{
+  "studentdata": [
   {
     "id": 202201,
     "firstName": "Austin",
@@ -43,7 +44,7 @@
       null
     ],
     "brochure": "https://drive.google.com/uc?export=view&id=1aqNpmpqO-n4ws5AmL7Y7VHtuSBa9ZLzm",
-    "contact": "Jadams.infosec@gmail.com; https://www.linkedin.com/in/jadams-infosec/"
+    "contact": "https://www.linkedin.com/in/jadams-infosec"
   },
   {
     "id": 202203,
@@ -66,7 +67,7 @@
       null
     ],
     "brochure": "https://drive.google.com/uc?export=view&id=",
-    "contact": "mfield102@gmail.com; https://www.linkedin.com/in/matthew-c-field/"
+    "contact": "https://www.linkedin.com/in/matthew-c-field"
   },
   {
     "id": 202204,
@@ -89,7 +90,7 @@
       null
     ],
     "brochure": "https://drive.google.com/uc?export=view&id=",
-    "contact": "Nathanieljm606@gmail.com; https://www.linkedin.com/in/nathaniel-murphy/"
+    "contact": "Nathanieljm606@gmail.com; https://www.linkedin.com/in/nathaniel-murphy"
   },
   {
     "id": 202205,
@@ -227,6 +228,22 @@
       null
     ],
     "brochure": "https://drive.google.com/uc?export=view&id=",
-    "contact": "https://www.linkedin.com/in/wesley-watts/"
+    "contact": "https://www.linkedin.com/in/wesley-watts"
   }
-]
+  ]
+    "other": {
+    "classPhoto": [
+        {
+        "title": "Class Photo",
+        "url": "https://drive.google.com/uc?export=view&id=1hB-Dw5aaJ985P8wyZHZNeHdTmXfAalIh",
+        },
+        {
+        "title": "Class Photo",
+        "url": "https://drive.google.com/uc?export=view&id=1lU_mW3oCB98nIUmDaKNyDcEGr-136sGa",
+        }
+    "outstanding": [],
+    "presenter": [],
+    "ga": []
+  }
+}
+
